@@ -16,4 +16,6 @@ node server.js
 Then open the browser and go to http://localhost:3000
 
 
+<img width="1440" alt="Screenshot 2024-07-14 at 12 07 15 PM" src="https://github.com/user-attachments/assets/aabee15d-b236-4da6-86d3-c3f64e70f978">
+
 
